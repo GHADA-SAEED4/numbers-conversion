@@ -104,7 +104,7 @@ void exitMenu()
         printf("-------------------------------------------------------------------------------------------------------------------\n");
         printf("Gehad AbdulAziz , Worked on: All decimal conversions. \n");
         printf("-------------------------------------------------------------------------------------------------------------------\n");
-        printf("Ghada Saeed , Worked on: All decimal conversions\n");
+        printf("Ghada Saeed , Worked on: All decimal conversions , octal to decimal conversion \n");
         printf("-------------------------------------------------------------------------------------------------------------------\n");
         printf("Malk Mostafa , Worked on: Conversions from octal to decimal and binary, conversion from decimal to octal.\n");
         printf("-------------------------------------------------------------------------------------------------------------------\n");
